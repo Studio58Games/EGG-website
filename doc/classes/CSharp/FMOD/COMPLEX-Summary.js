@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:FMOD.COMPLEX","COMPLEX");NDSummary.OnSummaryLoaded("CSharpClass:FMOD.COMPLEX",[["C#","CSharp"]],[["Groups","Group"],["Structs","Struct"],["Variables","Variable"]],[[1136,0,1,"<span class=\"Qualifier\">FMOD.</span>&#8203;COMPLEX"],[1137,0,0,"Variables","Variables"],[1138,0,2,"real","real"],[1139,0,2,"imag","imag"]]);

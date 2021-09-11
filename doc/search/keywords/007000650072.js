@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("per",["Variable"],[["performanceGui",,[["Engine.src.scenes.debugMode.DebugMode",,,,0,"File:src/scenes/debugMode/DebugMode.cs:Engine.src.scenes.debugMode.DebugMode.performanceGui","CSharpClass:Engine.src.scenes.debugMode.DebugMode:performanceGui"]]]]);

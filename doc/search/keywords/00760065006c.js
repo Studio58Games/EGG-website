@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("vel",["Variable"],[["velocity",,[["FMOD.ATTRIBUTES_3D",,,,0,"File:src/audioEngine/fmod.cs:FMOD.ATTRIBUTES_3D.velocity","CSharpClass:FMOD.ATTRIBUTES_3D:velocity"]]]]);

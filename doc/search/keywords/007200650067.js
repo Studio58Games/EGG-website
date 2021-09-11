@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("reg",["Function"],[["registerDSP",,[["FMOD.System",,,,0,"File:src/audioEngine/fmod.cs:FMOD.System.registerDSP","CSharpClass:FMOD.System:registerDSP"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("y2",["Variable"],[["Y2",,[["Engine.src.collision.shape.Line",,,,0,"File:src/collision/shape/Line.cs:Engine.src.collision.shape.Line.Y2","CSharpClass:Engine.src.collision.shape.Line:Y2"]]]]);

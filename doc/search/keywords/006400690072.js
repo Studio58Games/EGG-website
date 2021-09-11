@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dir",["Variable"],[["DirectorVector",,[["Engine.src.collision.shape.Side",,,,0,"File:src/collision/shape/Side.cs:Engine.src.collision.shape.Side.DirectorVector","CSharpClass:Engine.src.collision.shape.Side:DirectorVector"]]]]);

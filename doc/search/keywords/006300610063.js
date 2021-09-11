@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cac",["Variable"],[["cachePath",,[["Engine.src.graphicsEngine.renderEngine.Loader",,,,0,"File:src/graphicsEngine/loaders/Loader.cs:Engine.src.graphicsEngine.renderEngine.Loader.cachePath","CSharpClass:Engine.src.graphicsEngine.renderEngine.Loader:cachePath"]]]]);

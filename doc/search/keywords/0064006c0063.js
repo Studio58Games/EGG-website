@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dlc",["Function"],[["dlclose",,[["Engine.src.audioEngine.AudioManager",,,,0,"File:src/audioEngine/AudioManager.cs:Engine.src.audioEngine.AudioManager.dlclose","CSharpClass:Engine.src.audioEngine.AudioManager:dlclose"]]]]);

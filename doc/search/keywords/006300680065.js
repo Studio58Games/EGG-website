@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("che",["Function"],[["CheckExitGame",,[["Engine.src.engineLauncher.Egg",,,,0,"File:src/engineLauncher/Egg.cs:Engine.src.engineLauncher.Egg.CheckExitGame","CSharpClass:Engine.src.engineLauncher.Egg:CheckExitGame"]]]]);

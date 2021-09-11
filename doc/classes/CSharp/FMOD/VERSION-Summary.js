@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:FMOD.VERSION","VERSION");NDSummary.OnSummaryLoaded("CSharpClass:FMOD.VERSION",[["C#","CSharp"]],[["Classes","Class"],["Constants","Constant"],["Groups","Group"]],[[1935,0,0,"<span class=\"Qualifier\">FMOD.</span>&#8203;VERSION"],[1936,0,2,"Constants","Constants"],[1937,0,1,"number","number"],[1938,0,1,"dll","dll"]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("xnb",["Variable"],[["xnbPath",,[["Engine.src.graphicsEngine.renderEngine.Loader",,,,0,"File:src/graphicsEngine/loaders/Loader.cs:Engine.src.graphicsEngine.renderEngine.Loader.xnbPath","CSharpClass:Engine.src.graphicsEngine.renderEngine.Loader:xnbPath"]]]]);

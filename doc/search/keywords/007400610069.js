@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tai",["Constant"],[["TAIL",,[["FMOD.CHANNELCONTROL_DSP_INDEX",,,,0,"File:src/audioEngine/fmod.cs:FMOD.CHANNELCONTROL_DSP_INDEX.TAIL","CSharpClass:FMOD.CHANNELCONTROL_DSP_INDEX:TAIL"]]]]);

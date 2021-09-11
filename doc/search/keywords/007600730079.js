@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("vsy",["Variable"],[["VSync",,[["Engine.src.engineLauncher.Egg",,,,0,"File:src/engineLauncher/Egg.cs:Engine.src.engineLauncher.Egg.VSync","CSharpClass:Engine.src.engineLauncher.Egg:VSync"]]]]);

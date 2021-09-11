@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_pr",["Variable"],[["_prefab",,[["WorldEditor.src.scenes.PrefabScene",,,,0,"File2:src/scenes/prefab/PrefabScene.cs:WorldEditor.src.scenes.PrefabScene._prefab","CSharpClass:WorldEditor.src.scenes.PrefabScene:_prefab"]]]]);

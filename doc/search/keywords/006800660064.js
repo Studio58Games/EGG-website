@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("hfd",["Variable"],[["HFDecayRatio",,[["FMOD.REVERB_PROPERTIES",,,,0,"File:src/audioEngine/fmod.cs:FMOD.REVERB_PROPERTIES.HFDecayRatio","CSharpClass:FMOD.REVERB_PROPERTIES:HFDecayRatio"]]]]);

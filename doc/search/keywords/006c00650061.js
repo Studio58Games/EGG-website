@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lea",["Function"],[["Leave",,[["Engine.src.logic.Behavior",,,,0,"File:src/logic/behavior/Behavior.cs:Engine.src.logic.Behavior.Leave","CSharpClass:Engine.src.logic.Behavior:Leave"]]]]);

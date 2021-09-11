@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("on_",["Variable"],[["On_Screen_Entities",,[["Engine.src.graphicsEngine.renderEngine.SpriteRenderer",,,,0,"File:src/graphicsEngine/renderEngine/SpriteRenderer.cs:Engine.src.graphicsEngine.renderEngine.SpriteRenderer.On_Screen_Entities","CSharpClass:Engine.src.graphicsEngine.renderEngine.SpriteRenderer:On_Screen_Entities"]]]]);

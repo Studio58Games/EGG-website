@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("vol",["Variable"],[["vol0virtualvol",,[["FMOD.ADVANCEDSETTINGS",,,,0,"File:src/audioEngine/fmod.cs:FMOD.ADVANCEDSETTINGS.vol0virtualvol","CSharpClass:FMOD.ADVANCEDSETTINGS:vol0virtualvol"]]]]);

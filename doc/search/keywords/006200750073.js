@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("bus",["Struct"],[["Bus",,[["FMOD.Studio",,,,0,"File:src/audioEngine/fmod_studio.cs:FMOD.Studio.Bus","CSharpClass:FMOD.Studio.Bus"]]]]);

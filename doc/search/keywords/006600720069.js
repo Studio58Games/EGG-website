@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fri",["Variable"],[["Friction",,[["Engine.src.logic.behavior.SolidBody",,,,0,"File:src/logic/behavior/SolidBody.cs:Engine.src.logic.behavior.SolidBody.Friction","CSharpClass:Engine.src.logic.behavior.SolidBody:Friction"]]]]);

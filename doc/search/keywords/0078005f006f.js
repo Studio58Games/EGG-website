@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("x_o",["Variable"],[["X_OFFSET",,[["WorldEditor.src.editGuis.CollisionBoxButton",,,,0,"File2:src/editGuis/CollisionBoxButton.cs:WorldEditor.src.editGuis.CollisionBoxButton.X_OFFSET","CSharpClass:WorldEditor.src.editGuis.CollisionBoxButton:X_OFFSET"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ass",["Function"],[["AssignTextureID",,[["Engine.src.collision.shape.Collider",,,,0,"File:src/collision/shape/Collider.cs:Engine.src.collision.shape.Collider.AssignTextureID","CSharpClass:Engine.src.collision.shape.Collider:AssignTextureID"]]]]);

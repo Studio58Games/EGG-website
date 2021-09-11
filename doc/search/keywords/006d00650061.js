@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mea",["Function"],[["MeasureString",,[["Engine.src.graphicsEngine.texts.FontType",,,,0,"File:src/graphicsEngine/texts/FontType.cs:Engine.src.graphicsEngine.texts.FontType.MeasureString","CSharpClass:Engine.src.graphicsEngine.texts.FontType:MeasureString"]]]]);

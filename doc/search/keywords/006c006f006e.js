@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lon",["Variable"],[["longHelpText",,[["Engine.src.scenes.debugMode.DebugMode",,,,0,"File:src/scenes/debugMode/DebugMode.cs:Engine.src.scenes.debugMode.DebugMode.longHelpText","CSharpClass:Engine.src.scenes.debugMode.DebugMode:longHelpText"]]]]);

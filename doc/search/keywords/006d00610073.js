@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mas",["Class"],[["MasterRenderer",,[["Engine.src.graphicsEngine.renderEngine",,,,0,"File:src/graphicsEngine/renderEngine/MasterRenderer.cs:Engine.src.graphicsEngine.renderEngine.MasterRenderer","CSharpClass:Engine.src.graphicsEngine.renderEngine.MasterRenderer"]]]]);

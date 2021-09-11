@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("@lo",["Function"],[["@lock",,[["FMOD.Sound",,,,0,"File:src/audioEngine/fmod.cs:FMOD.Sound.@lock","CSharpClass:FMOD.Sound:@lock"]]]]);

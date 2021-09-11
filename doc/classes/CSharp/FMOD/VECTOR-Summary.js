@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:FMOD.VECTOR","VECTOR");NDSummary.OnSummaryLoaded("CSharpClass:FMOD.VECTOR",[["C#","CSharp"]],[["Groups","Group"],["Structs","Struct"],["Variables","Variable"]],[[1948,0,1,"<span class=\"Qualifier\">FMOD.</span>&#8203;VECTOR"],[1949,0,0,"Variables","Variables"],[1950,0,2,"x","x"],[1951,0,2,"y","y"],[1952,0,2,"z","z"]]);

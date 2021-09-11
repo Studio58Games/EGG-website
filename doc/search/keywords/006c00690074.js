@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lit",["Class"],[["LittleObject",,[["Engine.src.scenes.game",,,,0,"File:src/scenes/game/LittleObject.cs:Engine.src.scenes.game.LittleObject","CSharpClass:Engine.src.scenes.game.LittleObject"]]]]);

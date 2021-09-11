@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("nat",["Variable"],[["nativeUtf8Ptr",,[["FMOD.StringWrapper",,,,0,"File:src/audioEngine/fmod.cs:FMOD.StringWrapper.nativeUtf8Ptr","CSharpClass:FMOD.StringWrapper:nativeUtf8Ptr"]]]]);

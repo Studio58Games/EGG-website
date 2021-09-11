@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("gch",["Variable"],[["gcHandle",,[["FMOD.StringHelper.ThreadSafeEncoding",,,,0,"File:src/audioEngine/fmod.cs:FMOD.StringHelper.ThreadSafeEncoding.gcHandle","CSharpClass:FMOD.StringHelper.ThreadSafeEncoding:gcHandle"]]]]);

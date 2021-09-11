@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pie",["Variable"],[["piecewiselinearmapping",,[["FMOD.DSP_PARAMETER_FLOAT_MAPPING",,,,0,"File:src/audioEngine/fmod_dsp.cs:FMOD.DSP_PARAMETER_FLOAT_MAPPING.piecewiselinearmapping","CSharpClass:FMOD.DSP_PARAMETER_FLOAT_MAPPING:piecewiselinearmapping"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("inf",["Variable"],[["INF",,[["Engine.src.collision.shape.Polygon",,,,0,"File:src/collision/shape/Polygon.cs:Engine.src.collision.shape.Polygon.INF","CSharpClass:Engine.src.collision.shape.Polygon:INF"]]]]);

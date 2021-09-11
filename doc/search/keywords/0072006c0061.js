@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rla",["Variable"],[["RLabel",,[["WorldEditor.src.editGuis.CircleEditor",,,,0,"File2:src/editGuis/CircleEditor.cs:WorldEditor.src.editGuis.CircleEditor.RLabel","CSharpClass:WorldEditor.src.editGuis.CircleEditor:RLabel"]]]]);

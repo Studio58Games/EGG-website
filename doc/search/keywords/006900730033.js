@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("is3",["Function"],[["is3D",,[["FMOD.Studio.EventDescription",,,,0,"File:src/audioEngine/fmod_studio.cs:FMOD.Studio.EventDescription.is3D","CSharpClass:FMOD.Studio.EventDescription:is3D"]]]]);

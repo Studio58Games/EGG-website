@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("vca",["Struct"],[["VCA",,[["FMOD.Studio",,,,0,"File:src/audioEngine/fmod_studio.cs:FMOD.Studio.VCA","CSharpClass:FMOD.Studio.VCA"]]]]);

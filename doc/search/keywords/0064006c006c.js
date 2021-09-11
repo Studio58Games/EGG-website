@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dll",["Constant"],[["dll",,[["FMOD.Studio.STUDIO_VERSION",,,,0,"File:src/audioEngine/fmod_studio.cs:FMOD.Studio.STUDIO_VERSION.dll","CSharpClass:FMOD.Studio.STUDIO_VERSION:dll"],["FMOD.VERSION",,,,0,"File:src/audioEngine/fmod.cs:FMOD.VERSION.dll","CSharpClass:FMOD.VERSION:dll"]]]]);

@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:FMOD.Error","Error");NDSummary.OnSummaryLoaded("CSharpClass:FMOD.Error",[["C#","CSharp"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[1089,0,0,"<span class=\"Qualifier\">FMOD.</span>&#8203;Error"],[1090,0,2,"Functions","Functions"],[1091,0,1,"String","String"]]);

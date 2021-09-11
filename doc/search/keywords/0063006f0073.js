@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cos",["Function"],[["Cos",,[["Engine.src.toolbox.Maths",,,,0,"File:src/graphicsEngine/toolbox/Maths.cs:Engine.src.toolbox.Maths.Cos","CSharpClass:Engine.src.toolbox.Maths:Cos"]]]]);

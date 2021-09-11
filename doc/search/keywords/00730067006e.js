@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sgn",["Function"],[["Sgn",,[["Engine.src.toolbox.Maths",,,,0,"File:src/graphicsEngine/toolbox/Maths.cs:Engine.src.toolbox.Maths.Sgn","CSharpClass:Engine.src.toolbox.Maths:Sgn"]]]]);

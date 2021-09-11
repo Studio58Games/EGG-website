@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fft",["Variable"],[["fftreal",,[["FMOD.DSP_STATE_DFT_FUNCTIONS",,,,0,"File:src/audioEngine/fmod_dsp.cs:FMOD.DSP_STATE_DFT_FUNCTIONS.fftreal","CSharpClass:FMOD.DSP_STATE_DFT_FUNCTIONS:fftreal"]]]]);

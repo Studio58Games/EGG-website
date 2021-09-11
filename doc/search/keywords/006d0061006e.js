@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("man",["Property"],[["manager",,[["WorldEditor.src.scenes.world.SceneToolbar",,,,0,"File2:src/scenes/world/SceneToolbar.cs:WorldEditor.src.scenes.world.SceneToolbar.manager","CSharpClass:WorldEditor.src.scenes.world.SceneToolbar:manager"]]]]);

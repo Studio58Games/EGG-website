@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("emp",["Function"],[["Empty",,[["Engine.src.graphicsEngine.guis.basicGuis.StringReader",,,,0,"File:src/graphicsEngine/guis/basicGuis/StringReader.cs:Engine.src.graphicsEngine.guis.basicGuis.StringReader.Empty","CSharpClass:Engine.src.graphicsEngine.guis.basicGuis.StringReader:Empty"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dft",["Variable"],[["dft",,[["FMOD.DSP_STATE_FUNCTIONS",,,,0,"File:src/audioEngine/fmod_dsp.cs:FMOD.DSP_STATE_FUNCTIONS.dft","CSharpClass:FMOD.DSP_STATE_FUNCTIONS:dft"]]]]);

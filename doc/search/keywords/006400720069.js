@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dri",["Enumeration"],[["DRIVER_STATE",,[["FMOD",,,,0,"File:src/audioEngine/fmod.cs:FMOD.DRIVER_STATE"]]]]);

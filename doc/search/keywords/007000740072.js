@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ptr",["Function"],[["PtrToStructure",,[["FMOD.MarshalHelper",,,,0,"File:src/audioEngine/fmod.cs:FMOD.MarshalHelper.PtrToStructure","CSharpClass:FMOD.MarshalHelper:PtrToStructure"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("bar",["Variable"],[["bar",,[["FMOD.Studio.TIMELINE_BEAT_PROPERTIES",,,,0,"File:src/audioEngine/fmod_studio.cs:FMOD.Studio.TIMELINE_BEAT_PROPERTIES.bar","CSharpClass:FMOD.Studio.TIMELINE_BEAT_PROPERTIES:bar"]]]]);

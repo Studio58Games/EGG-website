@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("uti",["Struct"],[["Util",,[["FMOD.Studio",,,,0,"File:src/audioEngine/fmod_studio.cs:FMOD.Studio.Util","CSharpClass:FMOD.Studio.Util"]]]]);

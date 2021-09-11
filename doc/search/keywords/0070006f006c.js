@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pol",["Class"],[["Polygon",,[["Engine.src.collision.shape",,,,0,"File:src/collision/shape/Polygon.cs:Engine.src.collision.shape.Polygon","CSharpClass:Engine.src.collision.shape.Polygon"]]]]);

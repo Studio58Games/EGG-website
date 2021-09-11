@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fla",["Variable"],[["flags",,[["FMOD.Studio.PARAMETER_DESCRIPTION",,,,0,"File:src/audioEngine/fmod_studio.cs:FMOD.Studio.PARAMETER_DESCRIPTION.flags","CSharpClass:FMOD.Studio.PARAMETER_DESCRIPTION:flags"]]]]);

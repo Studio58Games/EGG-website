@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("nea",["Function"],[["NearlyEqual",,[["Engine.src.toolbox.Maths",,,,0,"File:src/graphicsEngine/toolbox/Maths.cs:Engine.src.toolbox.Maths.NearlyEqual","CSharpClass:Engine.src.toolbox.Maths:NearlyEqual"]]]]);

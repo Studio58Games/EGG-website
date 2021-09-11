@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ich",["Interface"],[["IChannelControl",,[["FMOD",,,,0,"File:src/audioEngine/fmod.cs:FMOD.IChannelControl","CSharpClass:FMOD.IChannelControl"]]]]);

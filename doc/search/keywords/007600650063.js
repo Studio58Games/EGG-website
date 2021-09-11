@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("vec",["Struct"],[["VECTOR",,[["FMOD",,,,0,"File:src/audioEngine/fmod.cs:FMOD.VECTOR","CSharpClass:FMOD.VECTOR"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("wre",["Variable"],[["WReader",,[["WorldEditor.src.editGuis.RectangleEditor",,,,0,"File2:src/editGuis/RectangleEditor.cs:WorldEditor.src.editGuis.RectangleEditor.WReader","CSharpClass:WorldEditor.src.editGuis.RectangleEditor:WReader"]]]]);

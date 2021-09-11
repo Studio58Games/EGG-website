@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cap",["Variable"],[["capacity",,[["FMOD.Studio.BUFFER_INFO",,,,0,"File:src/audioEngine/fmod_studio.cs:FMOD.Studio.BUFFER_INFO.capacity","CSharpClass:FMOD.Studio.BUFFER_INFO:capacity"]]]]);

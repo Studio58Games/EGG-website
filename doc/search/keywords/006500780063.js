@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("exc",["Variable"],[["exclusive",,[["FMOD.Studio.MEMORY_USAGE",,,,0,"File:src/audioEngine/fmod_studio.cs:FMOD.Studio.MEMORY_USAGE.exclusive","CSharpClass:FMOD.Studio.MEMORY_USAGE:exclusive"]]]]);

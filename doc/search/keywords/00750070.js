@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("up",["Variable"],[["up",,[["FMOD.ATTRIBUTES_3D",,,,0,"File:src/audioEngine/fmod.cs:FMOD.ATTRIBUTES_3D.up","CSharpClass:FMOD.ATTRIBUTES_3D:up"]]]]);

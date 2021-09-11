@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("wla",["Variable"],[["WLabel",,[["WorldEditor.src.editGuis.RectangleEditor",,,,0,"File2:src/editGuis/RectangleEditor.cs:WorldEditor.src.editGuis.RectangleEditor.WLabel","CSharpClass:WorldEditor.src.editGuis.RectangleEditor:WLabel"]]]]);

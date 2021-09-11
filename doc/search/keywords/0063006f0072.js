@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cor",["Variable"],[["correspondingQuarter",,[["WorldEditor.src.scenes.TilePrefabToolbar",,,,0,"File2:src/scenes/tileset/TilePrefabToolbar.cs:WorldEditor.src.scenes.TilePrefabToolbar.correspondingQuarter","CSharpClass:WorldEditor.src.scenes.TilePrefabToolbar:correspondingQuarter"]]]]);

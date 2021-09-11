@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("hre",["Variable"],[["HReader",,[["WorldEditor.src.editGuis.RectangleEditor",,,,0,"File2:src/editGuis/RectangleEditor.cs:WorldEditor.src.editGuis.RectangleEditor.HReader","CSharpClass:WorldEditor.src.editGuis.RectangleEditor:HReader"]]]]);

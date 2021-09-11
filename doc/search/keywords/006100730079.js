@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("asy",["Struct"],[["ASYNCREADINFO",,[["FMOD",,,,0,"File:src/audioEngine/fmod.cs:FMOD.ASYNCREADINFO","CSharpClass:FMOD.ASYNCREADINFO"]]]]);

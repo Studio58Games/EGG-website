@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:FMOD.PORT_INDEX","PORT_INDEX");NDSummary.OnSummaryLoaded("CSharpClass:FMOD.PORT_INDEX",[["C#","CSharp"]],[["Constants","Constant"],["Groups","Group"],["Structs","Struct"]],[[2040,0,2,"<span class=\"Qualifier\">FMOD.</span>&#8203;PORT_INDEX"],[2041,0,1,"Constants","Constants"],[2042,0,0,"NONE","NONE"]]);

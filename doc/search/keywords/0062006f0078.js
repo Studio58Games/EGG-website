@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("box",["Class"],[["BoxPoint",,[["Engine.src.collision.shape",,,,0,"File:src/collision/shape/BoxPoint.cs:Engine.src.collision.shape.BoxPoint","CSharpClass:Engine.src.collision.shape.BoxPoint"]]]]);

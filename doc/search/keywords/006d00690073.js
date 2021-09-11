@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mis",["Function"],[["MissedCorner",,[["Engine.src.collision.shape.Polygon",,,,0,"File:src/collision/shape/Polygon-crop.cs:Engine.src.collision.shape.Polygon.MissedCorner","CSharpClass:Engine.src.collision.shape.Polygon:MissedCorner"]]]]);

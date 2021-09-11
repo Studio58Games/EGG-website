@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rou",["Function"],[["roundUpPowerTwo",,[["FMOD.StringHelper.ThreadSafeEncoding",,,,0,"File:src/audioEngine/fmod.cs:FMOD.StringHelper.ThreadSafeEncoding.roundUpPowerTwo","CSharpClass:FMOD.StringHelper.ThreadSafeEncoding:roundUpPowerTwo"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("idl",["Variable"],[["idlesampledatapoolsize",,[["FMOD.Studio.ADVANCEDSETTINGS",,,,0,"File:src/audioEngine/fmod_studio.cs:FMOD.Studio.ADVANCEDSETTINGS.idlesampledatapoolsize","CSharpClass:FMOD.Studio.ADVANCEDSETTINGS:idlesampledatapoolsize"]]]]);

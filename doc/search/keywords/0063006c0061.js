@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("cla",["Function"],[["Clamp",,[["Engine.src.toolbox.Maths",,,,0,"File:src/graphicsEngine/toolbox/Maths.cs:Engine.src.toolbox.Maths.Clamp","CSharpClass:Engine.src.toolbox.Maths:Clamp"]]]]);

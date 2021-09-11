@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fro",["Variable"],[["frozenGui",,[["Engine.src.scenes.debugMode.DebugMode",,,,0,"File:src/scenes/debugMode/DebugMode.cs:Engine.src.scenes.debugMode.DebugMode.frozenGui","CSharpClass:Engine.src.scenes.debugMode.DebugMode:frozenGui"]]]]);

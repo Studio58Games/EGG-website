@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("adv",["Struct"],[["ADVANCEDSETTINGS",,[["FMOD",,,,0,"File:src/audioEngine/fmod.cs:FMOD.ADVANCEDSETTINGS","CSharpClass:FMOD.ADVANCEDSETTINGS"],["FMOD.Studio",,,,0,"File:src/audioEngine/fmod_studio.cs:FMOD.Studio.ADVANCEDSETTINGS","CSharpClass:FMOD.Studio.ADVANCEDSETTINGS"]]]]);

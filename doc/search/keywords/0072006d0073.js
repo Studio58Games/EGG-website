@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("rms",["Variable"],[["rmslevel",,[["FMOD.DSP_METERING_INFO",,,,0,"File:src/audioEngine/fmod_dsp.cs:FMOD.DSP_METERING_INFO.rmslevel","CSharpClass:FMOD.DSP_METERING_INFO:rmslevel"]]]]);

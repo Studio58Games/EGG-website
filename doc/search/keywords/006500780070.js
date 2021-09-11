@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("exp",["Function"],[["ExpandOrReduce",,[["Engine.src.graphicsEngine.guis.basicGuis.Toolbar",,,,0,"File:src/graphicsEngine/guis/basicGuis/Toolbar.cs:Engine.src.graphicsEngine.guis.basicGuis.Toolbar.ExpandOrReduce","CSharpClass:Engine.src.graphicsEngine.guis.basicGuis.Toolbar:ExpandOrReduce"]]]]);

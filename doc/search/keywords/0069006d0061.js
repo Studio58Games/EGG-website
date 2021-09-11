@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ima",["Variable"],[["imag",,[["FMOD.COMPLEX",,,,0,"File:src/audioEngine/fmod_dsp.cs:FMOD.COMPLEX.imag","CSharpClass:FMOD.COMPLEX:imag"]]]]);

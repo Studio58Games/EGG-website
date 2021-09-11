@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("nee",["Variable"],[["needsUpdate",,[["Engine.src.collision.shape.Collider",,,,0,"File:src/collision/shape/Collider.cs:Engine.src.collision.shape.Collider.needsUpdate","CSharpClass:Engine.src.collision.shape.Collider:needsUpdate"]]]]);

@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pan",["Variable"],[["pan",,[["FMOD.DSP_STATE_FUNCTIONS",,,,0,"File:src/audioEngine/fmod_dsp.cs:FMOD.DSP_STATE_FUNCTIONS.pan","CSharpClass:FMOD.DSP_STATE_FUNCTIONS:pan"]]]]);

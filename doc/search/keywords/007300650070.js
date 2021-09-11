@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sep",["Variable"],[["SEPARATOR",,[["Engine.src.graphicsEngine.guis.basicGuis.BrowserDirectory",,,,0,"File:src/graphicsEngine/guis/basicGuis/BrowserDirectory.cs:Engine.src.graphicsEngine.guis.basicGuis.BrowserDirectory.SEPARATOR","CSharpClass:Engine.src.graphicsEngine.guis.basicGuis.BrowserDirectory:SEPARATOR"]]]]);

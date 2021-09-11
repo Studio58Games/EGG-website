@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("isf",["Variable"],[["IsFullScreen",,[["Engine.src.engineLauncher.Egg",,,,0,"File:src/engineLauncher/Egg.cs:Engine.src.engineLauncher.Egg.IsFullScreen","CSharpClass:Engine.src.engineLauncher.Egg:IsFullScreen"]]]]);

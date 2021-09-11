@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sug",["Variable"],[["suggestedsoundtype",,[["FMOD.CREATESOUNDEXINFO",,,,0,"File:src/audioEngine/fmod.cs:FMOD.CREATESOUNDEXINFO.suggestedsoundtype","CSharpClass:FMOD.CREATESOUNDEXINFO:suggestedsoundtype"]]]]);

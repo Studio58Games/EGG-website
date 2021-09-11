@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("ban",["Struct"],[["Bank",,[["FMOD.Studio",,,,0,"File:src/audioEngine/fmod_studio.cs:FMOD.Studio.Bank","CSharpClass:FMOD.Studio.Bank"]]],["BANK_INFO",,[["FMOD.Studio",,,,0,"File:src/audioEngine/fmod_studio.cs:FMOD.Studio.BANK_INFO","CSharpClass:FMOD.Studio.BANK_INFO"]]]]);

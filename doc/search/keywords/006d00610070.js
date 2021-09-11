@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("map",["Variable"],[["mapping",,[["FMOD.DSP_PARAMETER_DESC_FLOAT",,,,0,"File:src/audioEngine/fmod_dsp.cs:FMOD.DSP_PARAMETER_DESC_FLOAT.mapping","CSharpClass:FMOD.DSP_PARAMETER_DESC_FLOAT:mapping"]]]]);

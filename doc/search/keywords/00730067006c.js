@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sgl",["Variable"],[["sGlobalTime",,[["Engine.src.engineLauncher.Time",,,,0,"File:src/engineLauncher/Time.cs:Engine.src.engineLauncher.Time.sGlobalTime","CSharpClass:Engine.src.engineLauncher.Time:sGlobalTime"]]]]);

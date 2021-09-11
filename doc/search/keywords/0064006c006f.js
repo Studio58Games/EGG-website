@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("dlo",["Function"],[["dlopen",,[["Engine.src.audioEngine.AudioManager",,,,0,"File:src/audioEngine/AudioManager.cs:Engine.src.audioEngine.AudioManager.dlopen","CSharpClass:Engine.src.audioEngine.AudioManager:dlopen"]]]]);
